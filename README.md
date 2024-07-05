@@ -7,6 +7,7 @@ I'm a junior full-stack web developer in 📍 Tokyo, Japan
 - ⚡ Fun fact: I love playing the bass and am in a band, [His & Her Circumstances](https://www.instagram.com/karekano_circumstances/) ✨
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang-3b109422a/) | [Email](mailto:senie.c88@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88valleys)](https://github.com/88valleys/github-readme-stats)
 
 <!--
 **88valleys/88valleys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
