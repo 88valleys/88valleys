@@ -2,7 +2,7 @@
 
 ### My name is Senie, 🇦🇺 _Naarm_/Melbourne raised, 🇯🇵 Tokyo based
 I'm a junior full-stack web developer in 📍 Tokyo, Japan 
-- 🌱 I’m currently learning Ruby, Vue.js, React and Ruby on Rails 🛤️
+- 🌱 I’m currently learning Vue.js 💪
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing the bass and am in a band, [His & Her Circumstances](https://www.instagram.com/karekano_circumstances/) ✨
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang-3b109422a/) | [Email](mailto:senie.c88@gmail.com)
