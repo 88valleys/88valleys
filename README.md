@@ -1,6 +1,6 @@
-## Hi there 👋 Nice to meet you!
+## Hi there 👋 I'm Senie!
 
-### My name is Senie, 🇦🇺 _Naarm_/Melbourne raised, 🇯🇵 Tokyo based
+### 🇦🇺 _Naarm_/Melbourne raised, 🇯🇵 Tokyo based
 I'm a junior full-stack web developer in 📍 Tokyo, Japan 
 - 🌱 I’m currently learning Vue.js 💪
 - 😄 Pronouns: she/her
