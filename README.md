@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1>
-<h3 align="center">A junior front-end developer from Naarm/Melbourne, Australia 🦘, based in Tokyo, Japan 📍</h3>
+<h3 align="center">A junior front-end developer with a background in design 👩🏻‍🎨 
+    <br>I'm based in Tokyo, Japan 🗼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=88valleys&label=Profile%20views&color=0e75b6&style=flat" alt="88valleys" /> </p>
 
