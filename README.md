@@ -17,10 +17,11 @@
 
 
 
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=88valleys&show_icons=true&locale=en" alt="88valleys" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=88valleys&show_icons=true&locale=en&layout=compact" alt="88valleys" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=88valleys&show_icons=true&locale=en" alt="88valleys" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=88valleys&show_icons=true&locale=en&layout=compact" alt="88valleys" />
+</div>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=88valleys&" alt="88valleys" /></p>
