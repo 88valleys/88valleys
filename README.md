@@ -6,6 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=88valleys" alt="88valleys" /></a> </p>
 
+- 🧃 Interning as a front-end developer at [Brown Juice Co](https://brownjuice.co/)
 - 🔭 I’m currently working on updating [TokyoScene](https://github.com/88valleys/TokyoScene) and [Find a Doc](https://github.com/ourjapanlife/findadoc-web)
 - 🌱 I’m currently learning **React, TypeScript and Next.js** 💪
 - 😄 Pronouns: she/her
