@@ -22,8 +22,6 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=88valleys&show_icons=true&locale=en" alt="88valleys" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=88valleys&show_icons=true&locale=en&layout=compact" alt="88valleys" />
 </div>
 
 <!--
