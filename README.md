@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,vue,ts,nodejs,nextjs,tailwind,sass,bootstrap,ruby,rails,heroku,py,git,postgres,mongodb,postman,figma,ps,ai" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,vue,ts,nodejs,nextjs,tailwind,sass,bootstrap,ruby,rails,heroku,py,git,postgres,mongodb,postman,figma,ps,ai&perline=10" />
 </p>
 
 
