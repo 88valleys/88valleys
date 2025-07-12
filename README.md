@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [TokyoScene](https://github.com/88valleys/TokyoScene) and [Find a Doc](https://github.com/ourjapanlife/findadoc-web)
 - 🌱 I’m currently learning **MongoDB** and **Node.js** 💪
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass! If you're in Tokyo, catch me playing with [His & Her Circumstances](https://www.instagram.com/karekano_circumstances/) ✨
+- ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass!
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang/) | [Email](mailto:senie.m.calalang@gmail.com)
 
 <h3 align="center">Languages and Tools:</h3>
