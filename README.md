@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1>  
+<h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1> 
+
 <h3 align="center">A full-stack developer with a background in design 👩🏻‍🎨 
     <br>🇦🇺 Melbourne raised, 🇯🇵 Tokyo based</h3>
 
