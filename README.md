@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=88valleys" alt="88valleys" /></a> </p>
 
-- 🎨 I'm a UI/UX Designer at [Kort Valuta](https://kortvaluta.com/)
+- 🎨 I'm a UX/UI Designer at [Kort Valuta](https://kortvaluta.com/)
 - 🔭 I’m working on [TokyoScene](https://github.com/88valleys/TokyoScene)
 - 🌱 I’m learning **MongoDB** and **Node.js** 💪
 - 😄 Pronouns: she/her
