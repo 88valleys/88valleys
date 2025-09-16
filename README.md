@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1>
 
-<h3 align="center">A full-stack developer with a background in design 👩🏻‍🎨 
+<h3 align="center">A UI/UX designer who still thinks in code sometimes 👩🏻‍💻
     <br>🇦🇺 Melbourne raised, 🇯🇵 Tokyo based</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=88valleys&label=Profile%20views&color=0e75b6&style=flat" alt="88valleys" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=88valleys" alt="88valleys" /></a> </p>
 
-- 🧃 I'm currently interning as a front-end developer at [Brown Juice Co](https://brownjuice.co/)
-- 🔭 I’m currently working on [TokyoScene](https://github.com/88valleys/TokyoScene) and [Find a Doc](https://github.com/ourjapanlife/findadoc-web)
+- 🎨 I'm currently a UI/UX Designer at [Kort Valuta](https://kortvaluta.com/)
+- 🔭 I’m currently working on [TokyoScene](https://github.com/88valleys/TokyoScene)
 - 🌱 I’m currently learning **MongoDB** and **Node.js** 💪
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass!
