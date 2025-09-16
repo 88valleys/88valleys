@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1>
 
 <h3 align="center">A UI/UX designer who still thinks in code sometimes 👩🏻‍💻</h3>
-    <br>🇦🇺 <h4>Melbourne raised, 🇯🇵 Tokyo based</h4>
+    <br><h4 align="center">🐨 Naarm/Melbourne raised, 🍡 Tokyo based</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=88valleys&label=Profile%20views&color=0e75b6&style=flat" alt="88valleys" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=88valleys" alt="88valleys" /></a> </p>
 
-- 🎨 I'm currently a UI/UX Designer at [Kort Valuta](https://kortvaluta.com/)
-- 🔭 I’m currently working on [TokyoScene](https://github.com/88valleys/TokyoScene)
-- 🌱 I’m currently learning **MongoDB** and **Node.js** 💪
+- 🎨 I'm a UI/UX Designer at [Kort Valuta](https://kortvaluta.com/)
+- 🔭 I’m working on [TokyoScene](https://github.com/88valleys/TokyoScene)
+- 🌱 I’m learning **MongoDB** and **Node.js** 💪
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass!
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang/) | [Email](mailto:senie.m.calalang@gmail.com)
