@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Senie 🌸✨</h1>
 
-<h3 align="center">A UI/UX designer who still thinks in code sometimes 👩🏻‍💻
-    <br>🇦🇺 Melbourne raised, 🇯🇵 Tokyo based</h3>
+<h3 align="center">A UI/UX designer who still thinks in code sometimes 👩🏻‍💻</h3>
+    <br>🇦🇺 <h4>Melbourne raised, 🇯🇵 Tokyo based</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=88valleys&label=Profile%20views&color=0e75b6&style=flat" alt="88valleys" /> </p>
 
