@@ -9,7 +9,6 @@
 
 - 🎨 I'm a UX/UI Designer at [Kort Valuta](https://kortvaluta.com/)
 - 🔭 I’m working on [TokyoScene](https://github.com/88valleys/TokyoScene)
-- 🌱 I’m learning **MongoDB** and **Node.js** 💪
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass!
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang/) | [Email](mailto:senie.m.calalang@gmail.com)
