@@ -8,8 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=88valleys" alt="88valleys" /></a> </p>
 
 - 🎨 I'm a UX/UI Designer at [Kort Valuta](https://kortvaluta.com/)
-<!--- 🔭 I’m working on [TokyoScene](https://github.com/88valleys/TokyoScene)
--->
+<!--- 🔭 I’m working on [TokyoScene](https://github.com/88valleys/TokyoScene)-->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my spare time, I love exploring Tokyo's vast live music scene. I also play the bass!
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/senie-calalang/) | [Email](mailto:senie.m.calalang@gmail.com)
